@@ -4,47 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add main file in project">
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/01_Person/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/01_Person/project/child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/01_Person/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/01_Person/project/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/bear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/gorilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/lizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/blade_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/dark_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/dark_wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/muse_elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/soul_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/04_Need_for_Speed/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/04_Need_for_Speed/project/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/04_Need_for_Speed/project/cross_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/04_Need_for_Speed/project/family_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/04_Need_for_Speed/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/04_Need_for_Speed/project/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/04_Need_for_Speed/project/race_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/04_Need_for_Speed/project/sport_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/04_Need_for_Speed/project/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/05_Shop/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/05_Shop/project/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/05_Shop/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/05_Shop/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/05_Shop/project/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Inheritance/05_Shop/project/product_repository.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
+    <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add task to Ex. Inheritance">
+      <change afterPath="$PROJECT_DIR$/Encapsulation/01_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/02_Mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/03_Profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,22 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.child.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main (2).executor": "Run",
-    "Python.main (3).executor": "Run",
-    "Python.main (4).executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_Person.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Mammal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Profile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.child.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.03_Profile">
+    <configuration name="01_Person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Inheritance/1_Person/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Inheritance/1_Person/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Encapsulation/01_Person.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_Mammal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Inheritance/02_Zoo/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Encapsulation/02_Mammal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_Profile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Inheritance/03_Players_and_Monsters/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Encapsulation/03_Profile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_Profile" />
+        <item itemvalue="Python.02_Mammal" />
+        <item itemvalue="Python.01_Person" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -238,13 +206,30 @@
       <option name="project" value="LOCAL" />
       <updated>1709145956088</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add task to Ex. Inheritance">
+      <option name="closed" value="true" />
+      <created>1709238403763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709238403763</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add task to Ex. Inheritance">
+      <option name="closed" value="true" />
+      <created>1709238424032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709238424032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update pyhton OOP repo" />
     <MESSAGE value="Add main file in project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add main file in project" />
+    <MESSAGE value="Add task to Ex. Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task to Ex. Inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
