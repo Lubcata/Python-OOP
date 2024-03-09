@@ -4,28 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add task to Encapsulation">
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/caretaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/cheetah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/keeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/lion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/02_Pizza_Maker/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/02_Pizza_Maker/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/02_Pizza_Maker/project/dough.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/02_Pizza_Maker/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/02_Pizza_Maker/project/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/02_Pizza_Maker/project/topping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/03_Football_Team_Generator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/03_Football_Team_Generator/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/03_Football_Team_Generator/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/03_Football_Team_Generator/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Encapsulation/03_Football_Team_Generator/project/team.py" afterDir="false" />
+    <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add task to Ex. Encapsulation">
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/01_Photo_Album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/dvd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/movie_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/topic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/exercise_plan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/gym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/next_id_mixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/subscription.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -48,31 +52,35 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2d0UIhvV1GA2h1F71d4sohIvcQd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_Person.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_Mammal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_Profile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.child.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zoo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for main.TestDocumentManagement.executor": "Run",
+    "Python.01_Person.executor": "Run",
+    "Python.02_Mammal.executor": "Run",
+    "Python.03_Profile.executor": "Run",
+    "Python.child.executor": "Run",
+    "Python.gym.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main (3).executor": "Run",
+    "Python.main (4).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.zoo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="03_Profile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="gym" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Encapsulation/03_Profile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/gym.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Encapsulation/03_Football_Team_Generator/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Encapsulation/03_Football_Team_Generator/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Encapsulation/02_Pizza_Maker/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Encapsulation/02_Pizza_Maker/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,35 +168,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for main.TestDocumentManagement" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Encapsulation/01_Wild_Cat_Zoo/project/zoo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;main.TestDocumentManagement&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.zoo" />
-        <item itemvalue="Python.03_Profile" />
+        <item itemvalue="Python.gym" />
+        <item itemvalue="Python tests.Python tests for main.TestDocumentManagement" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709813965170</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add task to Ex. Encapsulation">
+      <option name="closed" value="true" />
+      <created>1709901467990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709901467990</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,7 +265,8 @@
     <MESSAGE value="Add main file in project" />
     <MESSAGE value="Add task to Ex. Inheritance" />
     <MESSAGE value="Add task to Encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task to Encapsulation" />
+    <MESSAGE value="Add task to Ex. Encapsulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task to Ex. Encapsulation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
