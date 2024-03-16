@@ -4,32 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add task to Ex. Encapsulation">
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/01_Photo_Album.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/dvd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/movie_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/document.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/topic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/equipment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/exercise_plan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/gym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/next_id_mixin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/subscription.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Static and Class Methods/__init__.py" afterDir="false" />
+    <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add task to Ex. Static and Class Methods">
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/01_Vehicles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/02_Groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/03_Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/04_Wild_Farm/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/04_Wild_Farm/project/animals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/04_Wild_Farm/project/animals/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/04_Wild_Farm/project/animals/birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/04_Wild_Farm/project/animals/mammals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/04_Wild_Farm/project/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/04_Wild_Farm/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/project/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/project/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/project/kitten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/project/tomcat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/f1_season_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/formula_teams/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/formula_teams/formula_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/formula_teams/mercedes_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/formula_teams/red_bull_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -62,8 +63,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for main.TestDocumentManagement.executor": "Run",
+    "Python tests.Python tests for main.TestF1SeasonAppClass.test_practice.executor": "Run",
+    "Python tests.Python tests for main.WildFarmTests.test_first_zero.executor": "Run",
+    "Python tests.Python tests in main.py (1).executor": "Run",
+    "Python tests.Python tests in main.py.executor": "Run",
     "Python.01_Person.executor": "Run",
+    "Python.01_Vehicles.executor": "Run",
+    "Python.02_Groups.executor": "Run",
     "Python.02_Mammal.executor": "Run",
+    "Python.03_Account.executor": "Run",
     "Python.03_Profile.executor": "Run",
     "Python.child.executor": "Run",
     "Python.gym.executor": "Run",
@@ -71,7 +79,7 @@
     "Python.main (2).executor": "Run",
     "Python.main (3).executor": "Run",
     "Python.main (4).executor": "Run",
-    "Python.main.executor": "Run",
+    "Python.main.executor": "Debug",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,29 +87,13 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="gym" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/gym.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\SoftUni\Python OOP\Exercise Polymorphism and Abstraction\06_Formula_1_Manager\project" />
+      <recent name="D:\Python\SoftUni\Python OOP\Exercise Polymorphism and Abstraction\04_Wild_Farm\project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in main.py (1)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
@@ -111,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Static and Class Methods/04_Gym/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/05_Animals/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Static and Class Methods/02_Movie_World/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,50 +138,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for main.TestDocumentManagement" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for main.TestF1SeasonAppClass.test_practice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Static and Class Methods/03_Document_Management/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;main.TestDocumentManagement&quot;" />
+      <option name="_new_target" value="&quot;main.TestF1SeasonAppClass.test_practice&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for main.WildFarmTests.test_first_zero" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/04_Wild_Farm/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;main.WildFarmTests.test_first_zero&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in main.py (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/main.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.gym" />
-        <item itemvalue="Python tests.Python tests for main.TestDocumentManagement" />
-        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python tests.Python tests in main.py (1)" />
+        <item itemvalue="Python tests.Python tests for main.TestF1SeasonAppClass.test_practice" />
         <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python tests.Python tests for main.WildFarmTests.test_first_zero" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709901467990</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add task to Ex. Static and Class Methods">
+      <option name="closed" value="true" />
+      <created>1710004916596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710004916596</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,7 +274,8 @@
     <MESSAGE value="Add task to Ex. Inheritance" />
     <MESSAGE value="Add task to Encapsulation" />
     <MESSAGE value="Add task to Ex. Encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task to Ex. Encapsulation" />
+    <MESSAGE value="Add task to Ex. Static and Class Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task to Ex. Static and Class Methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -280,6 +289,21 @@
           <url>file://$PROJECT_DIR$/Exercise Inheritance/05_Shop/project/main.py</url>
           <line>4</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercise Polymorphism and Abstraction/04_Wild_Farm/project/main.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/f1_season_app.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercise Polymorphism and Abstraction/06_Formula_1_Manager/project/formula_teams/formula_team.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
