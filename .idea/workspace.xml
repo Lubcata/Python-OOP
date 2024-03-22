@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add more exercise">
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/01_Take_Skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/02_Dictionary_Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/03_Countdown_Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/04_Sequence_Repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/05_Take_Halves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/06_Fibonacci_Generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/07_Reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/08_Prime_Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/09_Possible_permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Iterators and Generators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Decorators/01_Logged.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Decorators/02_Even_Parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Decorators/03_Bold_Italic_Underline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Decorators/04_Type_Check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Decorators/05_Cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Decorators/06_HTML_Tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Decorators/07_Store Results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Decorators/08_Execution_Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Decorators/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +49,29 @@
     "Python tests.Python tests for main.WildFarmTests.test_first_zero.executor": "Run",
     "Python tests.Python tests in main.py (1).executor": "Run",
     "Python tests.Python tests in main.py.executor": "Run",
+    "Python.01_Logged.executor": "Run",
     "Python.01_Person.executor": "Run",
     "Python.01_Take_Skip.executor": "Run",
     "Python.01_Vehicles.executor": "Run",
     "Python.02_Dictionary_Iterator.executor": "Run",
+    "Python.02_Even_Parameters.executor": "Run",
     "Python.02_Groups.executor": "Run",
     "Python.02_Mammal.executor": "Run",
     "Python.03_Account.executor": "Run",
+    "Python.03_Bold_Italic_Underline.executor": "Run",
     "Python.03_Countdown_Iterator.executor": "Run",
     "Python.03_Profile.executor": "Run",
     "Python.04_Sequence_Repeat.executor": "Run",
+    "Python.04_Type_Check.executor": "Run",
+    "Python.05_Cache.executor": "Debug",
     "Python.05_Take_Halves.executor": "Run",
     "Python.06_Fibonacci_Generator.executor": "Run",
+    "Python.06_HTML_Tags.executor": "Run",
     "Python.07_Reader.executor": "Run",
+    "Python.07_Store Results.executor": "Run",
+    "Python.08_Execution_Time.executor": "Run",
     "Python.08_Prime_Numbers.executor": "Run",
+    "Python.09_Possible_permutations.executor": "Run",
     "Python.child.executor": "Run",
     "Python.gym.executor": "Run",
     "Python.main (1).executor": "Run",
@@ -84,8 +92,8 @@
       <recent name="D:\Python\SoftUni\Python OOP\Exercise Polymorphism and Abstraction\04_Wild_Farm\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09_Possible_permutations">
-    <configuration name="05_Take_Halves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.08_Execution_Time">
+    <configuration name="04_Type_Check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Iterators and Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Iterators and Generators/05_Take_Halves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_Decorators/04_Type_Check.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_Fibonacci_Generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_Cache" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Iterators and Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Iterators and Generators/06_Fibonacci_Generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_Decorators/05_Cache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_Reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_HTML_Tags" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Iterators and Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Iterators and Generators/07_Reader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_Decorators/06_HTML_Tags.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_Prime_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_Store Results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Iterators and Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Iterators and Generators/08_Prime_Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_Decorators/07_Store Results.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_Possible_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08_Execution_Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Iterators and Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Iterators and Generators/09_Possible_permutations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_Decorators/08_Execution_Time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09_Possible_permutations" />
-        <item itemvalue="Python.08_Prime_Numbers" />
-        <item itemvalue="Python.07_Reader" />
-        <item itemvalue="Python.06_Fibonacci_Generator" />
-        <item itemvalue="Python.05_Take_Halves" />
+        <item itemvalue="Python.08_Execution_Time" />
+        <item itemvalue="Python.07_Store Results" />
+        <item itemvalue="Python.06_HTML_Tags" />
+        <item itemvalue="Python.05_Cache" />
+        <item itemvalue="Python.04_Type_Check" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710604880899</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add more exercise">
+      <option name="closed" value="true" />
+      <created>1710934487740</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710934487740</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -330,6 +346,11 @@
           <url>file://$PROJECT_DIR$/Exercise Iterators and Generators/02_Dictionary_Iterator.py</url>
           <line>25</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercise_Decorators/05_Cache.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
