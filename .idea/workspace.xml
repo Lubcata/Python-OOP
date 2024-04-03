@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add more exercise">
-      <change afterPath="$PROJECT_DIR$/Exercise_Testing/02_vehicle/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_Testing/02_vehicle/project/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_Testing/02_vehicle/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_Testing/02_vehicle/test/test_vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_Testing/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -44,6 +39,13 @@
     &quot;Python tests.Python tests for main.TestDocumentManagement.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for main.TestF1SeasonAppClass.test_practice.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for main.WildFarmTests.test_first_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_available_capacity_return_correct_result.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_get_capacity_return_correct_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_if_category_is_not_allowed_raise_value_error.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_install_software_if_available_capacity_is_more_or_equal_to_capacity_consumption_and_memory_consumption.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_both_capacity_and_memory_are_lower_than_needed.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_lower_capacity_and_enough_memory.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_hero.TestHero.test_battle_if_enemy_is_same_as_hero_raise_exception.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_hero.TestHero.test_correct_init_.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_hero.TestHero.test_fight_enemy_and_win_expect_stats_increase.executor&quot;: &quot;Run&quot;,
@@ -96,12 +98,14 @@
     &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
     &quot;Python.main (4).executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.summit_quest_manager_app.executor&quot;: &quot;Run&quot;,
     &quot;Python.zoo.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/SoftUni/Python OOP/Exercise_Testing&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/SoftUni/Python OOP/Exercise_Testing&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -109,95 +113,96 @@
       <recent name="D:\Python\SoftUni\Python OOP\Exercise_Testing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\SoftUni\Python OOP\02_Exam_Preparation" />
       <recent name="D:\Python\SoftUni\Python OOP\Exercise_Testing\02_vehicle" />
       <recent name="D:\Python\SoftUni\Python OOP\Exercise_Testing" />
       <recent name="D:\Python\SoftUni\Python OOP\Exercise Polymorphism and Abstraction\06_Formula_1_Manager\project" />
       <recent name="D:\Python\SoftUni\Python OOP\Exercise Polymorphism and Abstraction\04_Wild_Farm\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_hero.py">
-    <configuration name="Python tests for test_hero.TestHero.test_correct_init_" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_both_capacity_and_memory_are_lower_than_needed">
+    <configuration name="Python tests for test.TestClimbingRobot.test_available_capacity_return_correct_result" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Testing/03_hero/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Exam Preparation/03-Unit-Testing-Skeleton/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_hero.TestHero.test_correct_init_&quot;" />
+      <option name="_new_target" value="&quot;test.TestClimbingRobot.test_available_capacity_return_correct_result&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_hero.TestHero.test_fight_enemy_and_win_expect_stats_increase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestClimbingRobot.test_get_capacity_return_correct_sum" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Testing/03_hero/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Exam Preparation/03-Unit-Testing-Skeleton/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_hero.TestHero.test_fight_enemy_and_win_expect_stats_increase&quot;" />
+      <option name="_new_target" value="&quot;test.TestClimbingRobot.test_get_capacity_return_correct_sum&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_hero.TestHero.test_fight_with_result_draw_returns_draw_and_decreases_health_on_both_players" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestClimbingRobot.test_install_software_if_available_capacity_is_more_or_equal_to_capacity_consumption_and_memory_consumption" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Testing/03_hero/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Exam Preparation/03-Unit-Testing-Skeleton/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_hero.TestHero.test_fight_with_result_draw_returns_draw_and_decreases_health_on_both_players&quot;" />
+      <option name="_new_target" value="&quot;test.TestClimbingRobot.test_install_software_if_available_capacity_is_more_or_equal_to_capacity_consumption_and_memory_consumption&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_hero.TestHero.test_if_enemy_health_is_less_than_or_equal_to_0_raise_value_error" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestClimbingRobot.test_install_software_with_both_capacity_and_memory_are_lower_than_needed" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Testing/03_hero/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Exam Preparation/03-Unit-Testing-Skeleton/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_hero.TestHero.test_if_enemy_health_is_less_than_or_equal_to_0_raise_value_error&quot;" />
+      <option name="_new_target" value="&quot;test.TestClimbingRobot.test_install_software_with_both_capacity_and_memory_are_lower_than_needed&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_hero.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestClimbingRobot.test_install_software_with_lower_capacity_and_enough_memory" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise_Testing/03_hero/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Exam Preparation/03-Unit-Testing-Skeleton/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Exercise_Testing/03_hero/test/test_hero.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test.TestClimbingRobot.test_install_software_with_lower_capacity_and_enough_memory&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_hero.py" />
-        <item itemvalue="Python tests.Python tests for test_hero.TestHero.test_fight_enemy_and_win_expect_stats_increase" />
-        <item itemvalue="Python tests.Python tests for test_hero.TestHero.test_fight_with_result_draw_returns_draw_and_decreases_health_on_both_players" />
-        <item itemvalue="Python tests.Python tests for test_hero.TestHero.test_correct_init_" />
-        <item itemvalue="Python tests.Python tests for test_hero.TestHero.test_if_enemy_health_is_less_than_or_equal_to_0_raise_value_error" />
+        <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_both_capacity_and_memory_are_lower_than_needed" />
+        <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_lower_capacity_and_enough_memory" />
+        <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_install_software_if_available_capacity_is_more_or_equal_to_capacity_consumption_and_memory_consumption" />
+        <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_available_capacity_return_correct_result" />
+        <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_get_capacity_return_correct_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -297,8 +302,27 @@
       <option name="project" value="LOCAL" />
       <updated>1711097772120</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add more exercise">
+      <option name="closed" value="true" />
+      <created>1711806802054</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711806802054</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update pyhton OOP repo" />
