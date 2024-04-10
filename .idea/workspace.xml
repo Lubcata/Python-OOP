@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add more exercise">
+      <change afterPath="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/divers/base_diver.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/divers/base_diver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/divers/free_diver.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/divers/free_diver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/divers/scuba_diver.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/divers/scuba_diver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/nautical_catch_challenge_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/nautical_catch_challenge_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +102,8 @@
     &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
     &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
     &quot;Python.main (4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nautical_catch_challenge_app.executor&quot;: &quot;Run&quot;,
     &quot;Python.summit_quest_manager_app.executor&quot;: &quot;Run&quot;,
     &quot;Python.zoo.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -105,7 +111,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Python/SoftUni/Python OOP/Exercise_Testing&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -120,35 +126,49 @@
       <recent name="D:\Python\SoftUni\Python OOP\Exercise Polymorphism and Abstraction\04_Wild_Farm\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_both_capacity_and_memory_are_lower_than_needed">
-    <configuration name="Python tests for test.TestClimbingRobot.test_available_capacity_return_correct_result" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Exam Preparation/03-Unit-Testing-Skeleton/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestClimbingRobot.test_available_capacity_return_correct_result&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestClimbingRobot.test_get_capacity_return_correct_sum" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="nautical_catch_challenge_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Exam Preparation/03-Unit-Testing-Skeleton/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestClimbingRobot.test_get_capacity_return_correct_sum&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/nautical_catch_challenge_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test.TestClimbingRobot.test_install_software_if_available_capacity_is_more_or_equal_to_capacity_consumption_and_memory_consumption" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -198,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.nautical_catch_challenge_app" />
         <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_both_capacity_and_memory_are_lower_than_needed" />
         <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_lower_capacity_and_enough_memory" />
         <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_install_software_if_available_capacity_is_more_or_equal_to_capacity_consumption_and_memory_consumption" />
-        <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_available_capacity_return_correct_result" />
-        <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_get_capacity_return_correct_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711806802054</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add more exercise">
+      <option name="closed" value="true" />
+      <created>1712165648905</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712165648905</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,6 +399,11 @@
           <url>file://$PROJECT_DIR$/Exercise_Decorators/05_Cache.py</url>
           <line>20</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/nautical_catch_challenge_app.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

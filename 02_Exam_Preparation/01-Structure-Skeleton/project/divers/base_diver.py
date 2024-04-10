@@ -45,11 +45,11 @@ class BaseDiver(ABC):
         ...
 
     def hit(self, fish: BaseFish):
-        if self.oxygen_level < fish.time_to_cacth:
+        if self.oxygen_level < fish.time_to_catch:
             self.oxygen_level = 0
         else:
             self.catch.append(fish)
-            self.oxygen_level -= fish.time_to_cacth
+            self.oxygen_level -= fish.time_to_catch
             self.__competition_points += fish.points
 
     def update_health_status(self):

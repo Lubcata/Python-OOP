@@ -8,7 +8,7 @@ class FreeDiver(BaseDiver):
         super().__init__(name, FreeDiver.INITIAL_OXYGEN_LEVEL)
 
     def miss(self, time_to_catch: int):
-        reduce_amount = round(time_to_catch * 0,6)
+        reduce_amount = round(time_to_catch * 0.6)
 
         if self.oxygen_level - reduce_amount < 0:
             self.oxygen_level = 0

@@ -8,7 +8,7 @@ class ScubaDiver(BaseDiver):
         super().__init__(name, ScubaDiver.INITIAL_OXYGEN_LEVEL)
 
     def miss(self, time_to_catch: int):
-        reduce_amount = round(time_to_catch * 0,3)
+        reduce_amount = round(time_to_catch * 0.3)
 
         if self.oxygen_level - reduce_amount < 0:
             self.oxygen_level = 0
