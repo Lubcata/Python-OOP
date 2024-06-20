@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70f9cd2d-ad95-4bc5-af54-574bd815ec67" name="Changes" comment="Add more exercise">
-      <change beforePath="$PROJECT_DIR$/.idea/Python OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Exam_Preparation/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Exam_Preparation/project/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lubcata&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lubcata/Python-OOP.git&quot;,
+    &quot;accountId&quot;: &quot;e80e75e0-efe5-42c4-b1ac-8231f310ac81&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -34,165 +47,195 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for main.TestDocumentManagement.executor": "Run",
-    "Python tests.Python tests for main.TestF1SeasonAppClass.test_practice.executor": "Run",
-    "Python tests.Python tests for main.WildFarmTests.test_first_zero.executor": "Run",
-    "Python tests.Python tests for test.TestClimbingRobot.test_available_capacity_return_correct_result.executor": "Run",
-    "Python tests.Python tests for test.TestClimbingRobot.test_get_capacity_return_correct_sum.executor": "Run",
-    "Python tests.Python tests for test.TestClimbingRobot.test_if_category_is_not_allowed_raise_value_error.executor": "Run",
-    "Python tests.Python tests for test.TestClimbingRobot.test_init.executor": "Run",
-    "Python tests.Python tests for test.TestClimbingRobot.test_install_software_if_available_capacity_is_more_or_equal_to_capacity_consumption_and_memory_consumption.executor": "Run",
-    "Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_both_capacity_and_memory_are_lower_than_needed.executor": "Run",
-    "Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_lower_capacity_and_enough_memory.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_book_trip_if_destination_is_not_in_offers.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_book_trip_with_correct_destination_and_enough_budged_and_is_family_get_discount.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_book_trip_without_enough_budget.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_booking_status_if_not_booked_destinations_paid_amounts_return_message.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_booking_status_with_booked_destination_return_correct_message.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_if_is_family_is_false_and_travelers_less_than_two_return_false.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_if_is_family_is_true_and_travelers_less_than_two_return_false.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_if_is_family_is_true_and_travelers_more_than_two_return_false.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_if_travelers_are_more_than_two.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_if_travelers_less_than_one.executor": "Run",
-    "Python tests.Python tests for test.TestTrip.test_init_trip.executor": "Run",
-    "Python tests.Python tests for test_hero.TestHero.test_battle_if_enemy_is_same_as_hero_raise_exception.executor": "Run",
-    "Python tests.Python tests for test_hero.TestHero.test_correct_init_.executor": "Run",
-    "Python tests.Python tests for test_hero.TestHero.test_fight_enemy_and_win_expect_stats_increase.executor": "Run",
-    "Python tests.Python tests for test_hero.TestHero.test_fight_with_result_draw_returns_draw_and_decreases_health_on_both_players.executor": "Run",
-    "Python tests.Python tests for test_hero.TestHero.test_if_enemy_health_is_less_than_or_equal_to_0_raise_value_error.executor": "Run",
-    "Python tests.Python tests for test_hero.TestHero.test_if_hero_health_is_less_than_or_equal_to_0_raise_exception.executor": "Run",
-    "Python tests.Python tests for test_hero.TestHero.test_if_hero_health_is_less_than_or_equal_to_0_raise_value_error.executor": "Run",
-    "Python tests.Python tests for test_mammal.TestMammal.test_correct__init__.executor": "Run",
-    "Python tests.Python tests for test_mammal.TestMammal.test_correct_sound.executor": "Run",
-    "Python tests.Python tests for test_mammal.TestMammal.test_get_kingdom_return_correct_str.executor": "Run",
-    "Python tests.Python tests for test_mammal.TestMammal.test_info_return_correct_str.executor": "Run",
-    "Python tests.Python tests for test_vehicle.TestVehicle.test_correct_str.executor": "Run",
-    "Python tests.Python tests for test_vehicle.TestVehicle.test_default_fuel_consumption_is_correct_value.executor": "Run",
-    "Python tests.Python tests for test_vehicle.TestVehicle.test_drive_with_enough_fuel_decrease_fuel.executor": "Run",
-    "Python tests.Python tests for test_vehicle.TestVehicle.test_drive_without_fuel_raise_exception.executor": "Run",
-    "Python tests.Python tests for test_vehicle.TestVehicle.test_refuel_with_correct_amount_of_fuel.executor": "Run",
-    "Python tests.Python tests for test_vehicle.TestVehicle.test_refuel_with_more_fuel_than_capacity.executor": "Run",
-    "Python tests.Python tests in main.py (1).executor": "Run",
-    "Python tests.Python tests in main.py.executor": "Run",
-    "Python tests.Python tests in test.py.executor": "Run",
-    "Python tests.Python tests in test_hero.py.executor": "Run",
-    "Python tests.Python tests in test_mammal.py.executor": "Run",
-    "Python tests.Python tests in test_vehicle.py.executor": "Run",
-    "Python.01_Logged.executor": "Run",
-    "Python.01_Person.executor": "Run",
-    "Python.01_Take_Skip.executor": "Run",
-    "Python.01_Vehicles.executor": "Run",
-    "Python.02_Dictionary_Iterator.executor": "Run",
-    "Python.02_Even_Parameters.executor": "Run",
-    "Python.02_Groups.executor": "Run",
-    "Python.02_Mammal.executor": "Run",
-    "Python.03_Account.executor": "Run",
-    "Python.03_Bold_Italic_Underline.executor": "Run",
-    "Python.03_Countdown_Iterator.executor": "Run",
-    "Python.03_Profile.executor": "Run",
-    "Python.04_Sequence_Repeat.executor": "Run",
-    "Python.04_Type_Check.executor": "Run",
-    "Python.05_Cache.executor": "Debug",
-    "Python.05_Take_Halves.executor": "Run",
-    "Python.06_Fibonacci_Generator.executor": "Run",
-    "Python.06_HTML_Tags.executor": "Run",
-    "Python.07_Reader.executor": "Run",
-    "Python.07_Store Results.executor": "Run",
-    "Python.08_Execution_Time.executor": "Run",
-    "Python.08_Prime_Numbers.executor": "Run",
-    "Python.09_Possible_permutations.executor": "Run",
-    "Python.child.executor": "Run",
-    "Python.elbow_pad.executor": "Debug",
-    "Python.gym.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main (2).executor": "Run",
-    "Python.main (3).executor": "Run",
-    "Python.main (4).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.nautical_catch_challenge_app.executor": "Run",
-    "Python.summit_quest_manager_app.executor": "Run",
-    "Python.tournament.executor": "Run",
-    "Python.zoo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Python/SoftUni/Python OOP",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for main.TestDocumentManagement.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for main.TestF1SeasonAppClass.test_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for main.WildFarmTests.test_first_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_available_capacity_return_correct_result.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_get_capacity_return_correct_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_if_category_is_not_allowed_raise_value_error.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_install_software_if_available_capacity_is_more_or_equal_to_capacity_consumption_and_memory_consumption.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_both_capacity_and_memory_are_lower_than_needed.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_lower_capacity_and_enough_memory.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_add_waiter.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_add_waiter_if_no_more_capacity.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_add_waiter_if_waiter_already_exist.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_capacity_is_correct.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_capacity_is_less_than_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_get_total_earnings_if_no_total_earnings.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_get_total_earnings_return_correct_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_get_waiters.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_get_waiters_is_empty.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_init_correct.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_name_is_correct.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_name_is_empty.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_remove_waiter_if_waiter_is_in_collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestRestaurant.test_remove_waiter_if_waiter_name_is_not_in_collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_book_trip_if_destination_is_not_in_offers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_book_trip_with_correct_destination_and_enough_budged_and_is_family_get_discount.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_book_trip_without_enough_budget.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_booking_status_if_not_booked_destinations_paid_amounts_return_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_booking_status_with_booked_destination_return_correct_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_if_is_family_is_false_and_travelers_less_than_two_return_false.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_if_is_family_is_true_and_travelers_less_than_two_return_false.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_if_is_family_is_true_and_travelers_more_than_two_return_false.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_if_travelers_are_more_than_two.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_if_travelers_less_than_one.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestTrip.test_init_trip.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_hero.TestHero.test_battle_if_enemy_is_same_as_hero_raise_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_hero.TestHero.test_correct_init_.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_hero.TestHero.test_fight_enemy_and_win_expect_stats_increase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_hero.TestHero.test_fight_with_result_draw_returns_draw_and_decreases_health_on_both_players.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_hero.TestHero.test_if_enemy_health_is_less_than_or_equal_to_0_raise_value_error.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_hero.TestHero.test_if_hero_health_is_less_than_or_equal_to_0_raise_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_hero.TestHero.test_if_hero_health_is_less_than_or_equal_to_0_raise_value_error.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_mammal.TestMammal.test_correct__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_mammal.TestMammal.test_correct_sound.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_mammal.TestMammal.test_get_kingdom_return_correct_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_mammal.TestMammal.test_info_return_correct_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vehicle.TestVehicle.test_correct_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vehicle.TestVehicle.test_default_fuel_consumption_is_correct_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vehicle.TestVehicle.test_drive_with_enough_fuel_decrease_fuel.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vehicle.TestVehicle.test_drive_without_fuel_raise_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vehicle.TestVehicle.test_refuel_with_correct_amount_of_fuel.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vehicle.TestVehicle.test_refuel_with_more_fuel_than_capacity.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in main.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in main.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_hero.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_mammal.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_vehicle.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Logged.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Person.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Take_Skip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Vehicles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Dictionary_Iterator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Even_Parameters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Groups.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Mammal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Account.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Bold_Italic_Underline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Countdown_Iterator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Profile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Sequence_Repeat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Type_Check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_Cache.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.05_Take_Halves.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_Fibonacci_Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_HTML_Tags.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Reader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Store Results.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_Execution_Time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_Prime_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_Possible_permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.base_client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.child.executor&quot;: &quot;Run&quot;,
+    &quot;Python.elbow_pad.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.gym.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nautical_catch_challenge_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sphere_restaurant_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.summit_quest_manager_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tournament.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zoo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/SoftUni/Python OOP&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\SoftUni\Python OOP\Exercise_Testing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\SoftUni\Python OOP" />
       <recent name="D:\Python\SoftUni\Python OOP\03_Exam_Preoaration" />
       <recent name="D:\Python\SoftUni\Python OOP\02_Exam_Preparation" />
       <recent name="D:\Python\SoftUni\Python OOP\Exercise_Testing\02_vehicle" />
       <recent name="D:\Python\SoftUni\Python OOP\Exercise_Testing" />
-      <recent name="D:\Python\SoftUni\Python OOP\Exercise Polymorphism and Abstraction\06_Formula_1_Manager\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test.py">
-    <configuration name="Python tests for test.TestTrip.test_book_trip_with_correct_destination_and_enough_budged_and_is_family_get_discount" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam_Retake/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam_Retake/project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestRestaurant.test_get_total_earnings_if_no_total_earnings" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Exam_Preoaration/03. Unit Testing_Skeleton/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam_Retake_Unit_Tests/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestTrip.test_book_trip_with_correct_destination_and_enough_budged_and_is_family_get_discount&quot;" />
+      <option name="_new_target" value="&quot;test.TestRestaurant.test_get_total_earnings_if_no_total_earnings&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestTrip.test_book_trip_without_enough_budget" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestRestaurant.test_get_total_earnings_return_correct_sum" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Exam_Preoaration/03. Unit Testing_Skeleton/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam_Retake_Unit_Tests/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestTrip.test_book_trip_without_enough_budget&quot;" />
+      <option name="_new_target" value="&quot;test.TestRestaurant.test_get_total_earnings_return_correct_sum&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestTrip.test_booking_status_if_not_booked_destinations_paid_amounts_return_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestRestaurant.test_remove_waiter_if_waiter_is_in_collection" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Exam_Preoaration/03. Unit Testing_Skeleton/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam_Retake_Unit_Tests/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestTrip.test_booking_status_if_not_booked_destinations_paid_amounts_return_message&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test.TestTrip.test_booking_status_with_booked_destination_return_correct_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python OOP" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Exam_Preoaration/03. Unit Testing_Skeleton/project/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestTrip.test_booking_status_with_booked_destination_return_correct_message&quot;" />
+      <option name="_new_target" value="&quot;test.TestRestaurant.test_remove_waiter_if_waiter_is_in_collection&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -202,29 +245,31 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Exam_Preoaration/03. Unit Testing_Skeleton/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam_Retake_Unit_Tests/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/03_Exam_Preoaration/03. Unit Testing_Skeleton/project/test/test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Exam_Retake_Unit_Tests/project/test/test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python tests.Python tests in test.py" />
-        <item itemvalue="Python tests.Python tests for test.TestTrip.test_booking_status_with_booked_destination_return_correct_message" />
-        <item itemvalue="Python tests.Python tests for test.TestTrip.test_booking_status_if_not_booked_destinations_paid_amounts_return_message" />
-        <item itemvalue="Python tests.Python tests for test.TestTrip.test_book_trip_with_correct_destination_and_enough_budged_and_is_family_get_discount" />
-        <item itemvalue="Python tests.Python tests for test.TestTrip.test_book_trip_without_enough_budget" />
+        <item itemvalue="Python tests.Python tests for test.TestRestaurant.test_get_total_earnings_return_correct_sum" />
+        <item itemvalue="Python tests.Python tests for test.TestRestaurant.test_get_total_earnings_if_no_total_earnings" />
+        <item itemvalue="Python tests.Python tests for test.TestRestaurant.test_remove_waiter_if_waiter_is_in_collection" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -236,6 +281,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709144413475</updated>
+      <workItem from="1715766962412" duration="101000" />
+      <workItem from="1718727214637" duration="92000" />
+      <workItem from="1718869420225" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Update pyhton OOP repo">
       <option name="closed" value="true" />
@@ -349,8 +397,19 @@
       <option name="project" value="LOCAL" />
       <updated>1712777116109</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add more exercise">
+      <option name="closed" value="true" />
+      <created>1712947389642</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712947389643</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -415,6 +474,11 @@
           <url>file://$PROJECT_DIR$/02_Exam_Preparation/01-Structure-Skeleton/project/nautical_catch_challenge_app.py</url>
           <line>67</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam_Retake/project/clients/base_client.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
